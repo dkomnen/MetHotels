@@ -106,4 +106,23 @@ div.hotel-room-div img{
   width: 100%;
 }
 
+.room-div{
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right:10px;
+  background-color: rgba(0,100,200,0.4);
+
+}
+
+.room-image-small{
+  width: 15vw;
+  height: 10vw;
+}
+
+.room-image-small img{
+  object-fit: contain;
+  width: 100%;
+}
+
 
